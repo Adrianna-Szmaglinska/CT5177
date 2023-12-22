@@ -10,8 +10,8 @@ public class Assignment1 {
 	//Start of main method
 	public static void main(String[] args) {
 		
-		// Creating Scanner and DecimalFormat objects
-		Scanner input = new Scanner(System.in);
+	// Creating Scanner and DecimalFormat objects
+	Scanner input = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat("0.00");
         
         // Input for A seats
